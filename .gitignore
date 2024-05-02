@@ -4,3 +4,7 @@ TP-3/part-tow-tex/*
 */.ipynb_checkpoints
 TP-4/data/*
 TP-2/data/*
+TP-5/COVID-19_Radiography_Dataset/*
+.ipynb_checkpoints
+__pycache__
+TP-5/working/weights
